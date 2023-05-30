@@ -1,9 +1,9 @@
 # Capstone_Project_Data_karyawan
 
   
-  Capstone ini merupakan project dari kegiatan belajar, dimana saya belajar membuat satu program aplikasi mini yang berkaitan
+  Capstone ini merupakan project dari kegiatan belajar dengan menggunakan program phyton, dimana saya belajar membuat satu program aplikasi mini yang berkaitan
 data karyawan.
-Aplikasi ini menggunakan program phyton, dimana aplikasi program ini mempunyai 4 (empat) fitur utama yaitu create, read, update dan delete. 
+Aplikasi  program ini mempunyai 4 (empat) fitur utama yaitu create, read, update dan delete. 
 Saya juga menambahkan satu fitur yaitu sort dan bisa dilihat seperti contoh dibawah ini:
 
 [![menuutama.png](https://i.postimg.cc/Zqs4xYqD/menuutama.png)](https://postimg.cc/bGn7zhkQ)
